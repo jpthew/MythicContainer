@@ -6,6 +6,7 @@ const (
 	SUPPORTED_OS_LINUX    = "Linux"
 	SUPPORTED_OS_CHROME   = "Chrome"
 	SUPPORTED_OS_WEBSHELL = "WebShell"
+	SUPPORTED_OS_IOS = "ios"
 )
 
 const (
